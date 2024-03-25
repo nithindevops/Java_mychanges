@@ -2,6 +2,12 @@
 
 NOTE: *We DO NOT add leetcode problems. They are just applications of basic principles that can be found in other algorithms included in the repository.*
 
+### Do you want to contribute to the documentation?
+   - [Fork](https://github.com/TheAlgorithms/Java/fork) the repository and make necessary changes.
+   - Create a pull request.
+   - It will be put under review for approval.
+   - If approved, the requested changes will be merged to the repository.
+
 ### Did you find a bug?
 
 **Ensure the bug was not already reported** by searching on GitHub under [Project Issues](https://github.com/TheAlgorithms/Java/issues).
